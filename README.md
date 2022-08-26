@@ -4,3 +4,5 @@ This will my hackathon submission for the GitHub Code Innovation Series, it is i
 This website is done with Bootstrap Studio and GitHub Pages which are both part of the GitHub Student Developer Pack.
 
 Hope you enjoy this website! All web pages are interconnected, feel free to suggest any improvements in this web design. It would be greatly appreciated!
+
+The link to the website is at: https://mightywern.github.io/wonders-of-the-world/
